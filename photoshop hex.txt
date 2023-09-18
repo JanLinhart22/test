@@ -1,0 +1,3 @@
+dark - #320202
+middle - #7f4B24
+bright - #edcf67
